@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <string key="NotAvailable" comment="This translation key should be used when no value is set or the item is not available.">N/A</string>
+  <string key="LoadingPleaseWait">Laden, bitte warten...</string>
+  <string key="Loading">Laden</string>
+  <string key="PleaseWait">Bitte warten ...</string>
+  <string key="German" comment="This is a translation key for the german language.">Deutsch</string>
+  <string key="Italian" comment="This is a translation key for the italian language. Aha!">Italienisch</string>
+</strings>
